@@ -1,0 +1,152 @@
+.shipping {
+  border: solid gray;
+  height: 35px;
+  background-color: gray;
+}
+.free {
+  color: white;
+  text-align: center;
+  margin: 10px;
+}
+
+.menuList {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.menuItems {
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.menu {
+  margin-right: px;
+}
+
+.picContainer {
+  background-image: url("https://github.com/Jmccaster/tokyo_bikes/blob/master/assets/tokyobike-Oksana.jpg?raw=true");
+  background-size: auto;
+  border: solid white;
+  height: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-bottom: 50px;
+}
+
+.littleBox {
+  background-color: rgba(255, 255, 255, 0.75);
+  height: 300px;
+}
+
+.our {
+  margin-left: 20px;
+  color: gray;
+}
+
+.sentence {
+  margin-left: 20px;
+  color: gray;
+}
+
+.shopButton {
+  background-color: rgba(255, 255, 255, 0.753);
+  color: gray;
+  width: 100px;
+  text-align: center;
+  padding: 5px 5px 5px 5px;
+  margin-left: 20px;
+}
+
+.sentence2 {
+  text-align: center;
+  color: gray;
+  padding: 100px;
+}
+
+.bikeContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 900px;
+  padding-bottom: 10%;
+  background-color: rgba(211, 211, 211, 0.397);
+}
+
+.bikeCard {
+  height: fit-content;
+  margin-left: 5%;
+}
+
+.bikePic {
+  width: 350px;
+}
+
+.bikeName {
+  text-align: center;
+}
+
+.bikePrice {
+  text-align: center;
+}
+
+.insideBike {
+  text-align: center;
+  color: gray;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.insideHeader {
+  height: 15px;
+  width: 100%;
+  text-align: center;
+  color: gray;
+  padding: 100px;
+}
+
+.misPicsContainer {
+  border: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 100px;
+}
+
+.pics2 {
+  width: 400px;
+  margin-left: 40px;
+}
+
+.caption {
+  text-align: center;
+  color: gray;
+}
+
+.sen3 {
+  text-align: center;
+  color: gray;
+}
+
+.btns {
+  border: solid gray;
+  color: gray;
+  width: 80px;
+  text-align: center;
+  padding: 5px 5px 5px 5px;
+  margin-left: 170px;
+}
+
+.footerContainer {
+  border: solid gray;
+  height: 500px;
+  display: flex;
+}
+
+.infoBox {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
